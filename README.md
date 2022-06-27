@@ -4,10 +4,8 @@ Code for the paper "BERT-enhanced Relational Sentence Ordering Network".
 We choose the [ROC dataset](https://github.com/sodawater/SentenceOrdering) as an example.  
 Besides, we clean the original code and remove some useless modules which contribute little to the overall performance.
 
-
 ### Requirements
 python3, pytorch 1.1.0
-
 
 ### Hyperparameter
 The recommended hyperparameters for the current code of BERSON.  
@@ -19,12 +17,10 @@ SIND dataset:  batch=4, lr=2e-5, epoch=2,  coefficient=1.0
 Arxiv dataset: batch=4, lr=2e-5, epoch=2,  coefficient=0.8  
 NSF dataset:   batch=4, lr=2e-5, epoch=2,  coefficient=0.4
 ```
-
 ### Train and evaluate
 ```
 bash run.sh
 ```
-
 ### Citation
 ```
 @inproceedings{cui2020bert,
