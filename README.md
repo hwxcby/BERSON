@@ -5,7 +5,7 @@ We choose the [ROC dataset](https://github.com/sodawater/SentenceOrdering) as an
 Besides, we clean the original code and remove some useless modules which contribute little to the overall performance.
 
 ### Requirements
-python3, pytorch 1.1.0
+python 3.6.5, pytorch 1.1.0
 
 ### Hyperparameter
 The recommended hyperparameters for the current code of BERSON.  
