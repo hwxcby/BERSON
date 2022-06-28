@@ -1,5 +1,5 @@
 # BERSON
-Code for the paper "BERT-enhanced Relational Sentence Ordering Network".
+Code for the paper "BERT-enhanced Relational Sentence Ordering Network" (EMNLP 2020).
 
 We choose the [ROC dataset](https://github.com/sodawater/SentenceOrdering) as an example.  
 Besides, we clean the original code and remove some useless modules which contribute little to the overall performance.
